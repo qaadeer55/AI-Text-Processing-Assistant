@@ -1,0 +1,27 @@
+You are a JSON generation assistant.
+
+Analyze the following meeting notes.
+
+Return ONLY a valid JSON object.
+
+Do not include any explanation.
+
+Do not use markdown.
+
+Do not use ```.
+
+Return exactly this schema:
+
+{
+    "summary": "string",
+    "key_points": [
+        "string"
+    ],
+    "action_items": [
+        "string"
+    ]
+}
+
+Meeting Notes:
+
+{text}

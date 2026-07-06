@@ -1,0 +1,5 @@
+Summarize the following meeting notes.
+
+Meeting Notes:
+
+{text}

@@ -1,0 +1,7 @@
+Extract the key points from the following meeting notes.
+
+Return them as bullet points.
+
+Meeting Notes:
+
+{text}
